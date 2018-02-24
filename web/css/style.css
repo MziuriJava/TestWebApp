@@ -1,0 +1,17 @@
+.mainDiv {
+    border-style: solid;
+    border-color: green;
+    width: 255px;
+    margin:0 auto;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 100px;
+}
+
+
+.helloP {
+    font-size: 25px;
+    color: red;
+    text-align: center;
+    padding-top: 100px;
+}
