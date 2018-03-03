@@ -15,7 +15,7 @@ public class InitialServlet extends HttpServlet {
         if (session.getAttribute("username") != null) {
             resp.sendRedirect("/home.html");
         } else {
-            resp.sendRedirect("index.html");
+            resp.sendRedirect("index.jsp");
         }
     }
 }

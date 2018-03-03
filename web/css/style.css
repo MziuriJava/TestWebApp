@@ -1,7 +1,7 @@
 .mainDiv {
     border-style: solid;
     border-color: green;
-    width: 255px;
+    width: 270px;
     margin:0 auto;
     text-align: center;
     vertical-align: middle;
@@ -14,4 +14,10 @@
     color: red;
     text-align: center;
     padding-top: 100px;
+}
+
+.failedAuth {
+    color: red;
+    text-align: center;
+    font-size: 12px;
 }
